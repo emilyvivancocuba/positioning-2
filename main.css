@@ -1,0 +1,27 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing:content-box;
+}
+.red{
+	position: static;
+	background-color: red;
+	height: 500px;
+	width: 500px;
+}
+.purple {
+	position: relative;
+	background-color: purple;
+	height: 250px;
+	width: 250px;
+	left: 125px;
+	top: 125px;
+}
+.yellow{
+	position: absolute;
+	background-color: yellow;
+	height: 125px;
+	width: 125px;
+	left: 125px;
+	top: 125px;
+}

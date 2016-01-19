@@ -1,0 +1,25 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing:content-box;
+}
+.blue{
+	position: absolute;
+	background-color: blue;
+	height: 500px;
+	width: 500px;
+}
+.green {
+	position:relative;
+	background-color: green;
+	height: 250px;
+	width: 250px;
+	left: 125px;
+	top: 125px;
+}
+.black{
+	position: absolute;
+	background-color: black;
+	height: 125px;
+	width: 125px;
+}
